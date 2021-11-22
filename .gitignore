@@ -130,5 +130,8 @@ dmypy.json
 
 
 ## Personal
-/dataset
-/local_files
+*/dataset
+*/local_files
+*/local_wagi
+*/wagi
+*/weights
