@@ -9,7 +9,9 @@ RUN pip install \
 	scipy \
 	matplotlib \
 	scikit-learn \
-	imgaug
+	imgaug \
+	pandas \
+	tqdm
 
 VOLUME /notebook
 WORKDIR /notebook
